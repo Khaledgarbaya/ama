@@ -1,8 +1,8 @@
 # Ask me anything!
 
-## [Ask a question](https://github.com/kentcdodds/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
+## [Ask a question](https://github.com/Khaledgarbaya/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/kentcdodds/ama/issues?q=is%3Aissue+is%3Aclosed)
 
-See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/kentcdodds/ama/labels) to sort the questions by ([work in progress](https://github.com/kentcdodds/ama/issues/424)).
+See my [favorite/popular/frequently asked](https://github.com/Khaledgarbaya/ama/issues?utf8=%E2%9C%93&q=label%3A%22favorite%2Fpopular%2Ffrequently%20asked%22%20) questions. There are also other [labels](https://github.com/kentcdodds/ama/labels) to sort the questions by ([work in progress](https://github.com/khaledgarbaya/ama/issues/424)).
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
