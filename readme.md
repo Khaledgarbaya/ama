@@ -6,9 +6,9 @@ See my [favorite/popular/frequently asked](https://github.com/kentcdodds/ama/iss
 
 I get a lot of questions by email but responding to an email only helps one person. This way anyone can read the answer.
 
-**If you'd rather not ask your question publicly**, send me an [email](mailto:me+ama@kentcdodds.com) and I can post the question anonymously for you.
+**If you'd rather not ask your question publicly**, send me an [email](mailto:kgarbaya+ama@gmail.com) and I can post the question anonymously for you.
 
-Subscribe for updates by [watching the repo](https://github.com/kentcdodds/ama/subscription).
+Subscribe for updates by [watching the repo](https://github.com/Khaledgarbaya/ama/subscription).
 
 Anything means anything. Personal questions. Money. Life. Code. Whatever.
 
@@ -28,15 +28,14 @@ Anything means anything. Personal questions. Money. Life. Code. Whatever.
 All questions are welcome but not all questions will be answered by me. Some questions may be answered by volunteers helping me. Others may not be answered at all. To increase the likelyhood of me answering your question it should:
 
 - Be relevant to me or my opinions in some way and not something anyone could answer (those are better served by [StackOverflow](https://stackoverflow.com/), etc).
-- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered. Read: ["Hi, thanks for reaching out to me 👋"](http://kcd.im/no-time).
-
+- Be helpful or interesting for other people. I prefer this medium to email because my time spent answering these questions helps more people. Answers that only help the asker are not an efficient use of my time and may not be answered.
 ##### Answer format
 
-Some answers may be in the form of [audio clips](https://github.com/kentcdodds/ama/issues?q=label%3Aaudio-answer) or [videos](https://github.com/kentcdodds/ama/issues?q=label%3Avideo-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
+Some answers may be in the form of [audio clips](https://github.com/Khaledgarbaya/ama/issues?q=label%3Aaudio-answer) or [videos](https://github.com/Khaledgarbaya/ama/issues?q=label%3Avideo-answer). This is not meant to exclude anyone. I wouldn't have time to answer these questions at all otherwise. Anyone is welcome and encouraged to transcribe these answers and leave a comment so that everyone can benefit from the answers.
 
 #### Other contact mediums
 
-I can also be reached on [Twitter](https://twitter.com/kentcdodds) and [email](mailto:me+ama@kentcdodds.com), but I prefer [this medium](https://github.com/kentcdodds/ama/issues/new).
+I can also be reached on [Twitter](https://twitter.com/khaled_garbaya) and [email](mailto:kgarbaya+ama@gmail.com), but I prefer [this medium](https://github.com/Khaledgarbaya/ama/issues/new).
 
 ### Links
 
