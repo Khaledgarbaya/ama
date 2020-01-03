@@ -1,4 +1,4 @@
-# Ask me anything!
+# Ask me anything JAMstack(Gatsby, Contentful)!
 
 ## [Ask a question](https://github.com/Khaledgarbaya/ama/issues/new) &nbsp;&nbsp;&nbsp; [Read answered questions](https://github.com/Khaledgarbaya/ama/issues?q=is%3Aissue+is%3Aclosed)
 
